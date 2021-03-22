@@ -1,0 +1,13 @@
+C:\Users\jedua\Documents\ESCOM\TT\TestAlgoritmoTT\TestAlgoritmoTT\bin\Debug\netcoreapp3.1\TestAlgoritmoTT.exe
+C:\Users\jedua\Documents\ESCOM\TT\TestAlgoritmoTT\TestAlgoritmoTT\bin\Debug\netcoreapp3.1\TestAlgoritmoTT.deps.json
+C:\Users\jedua\Documents\ESCOM\TT\TestAlgoritmoTT\TestAlgoritmoTT\bin\Debug\netcoreapp3.1\TestAlgoritmoTT.runtimeconfig.json
+C:\Users\jedua\Documents\ESCOM\TT\TestAlgoritmoTT\TestAlgoritmoTT\bin\Debug\netcoreapp3.1\TestAlgoritmoTT.runtimeconfig.dev.json
+C:\Users\jedua\Documents\ESCOM\TT\TestAlgoritmoTT\TestAlgoritmoTT\bin\Debug\netcoreapp3.1\TestAlgoritmoTT.dll
+C:\Users\jedua\Documents\ESCOM\TT\TestAlgoritmoTT\TestAlgoritmoTT\bin\Debug\netcoreapp3.1\TestAlgoritmoTT.pdb
+C:\Users\jedua\Documents\ESCOM\TT\TestAlgoritmoTT\TestAlgoritmoTT\obj\Debug\netcoreapp3.1\TestAlgoritmoTT.csprojAssemblyReference.cache
+C:\Users\jedua\Documents\ESCOM\TT\TestAlgoritmoTT\TestAlgoritmoTT\obj\Debug\netcoreapp3.1\TestAlgoritmoTT.AssemblyInfoInputs.cache
+C:\Users\jedua\Documents\ESCOM\TT\TestAlgoritmoTT\TestAlgoritmoTT\obj\Debug\netcoreapp3.1\TestAlgoritmoTT.AssemblyInfo.cs
+C:\Users\jedua\Documents\ESCOM\TT\TestAlgoritmoTT\TestAlgoritmoTT\obj\Debug\netcoreapp3.1\TestAlgoritmoTT.csproj.CoreCompileInputs.cache
+C:\Users\jedua\Documents\ESCOM\TT\TestAlgoritmoTT\TestAlgoritmoTT\obj\Debug\netcoreapp3.1\TestAlgoritmoTT.dll
+C:\Users\jedua\Documents\ESCOM\TT\TestAlgoritmoTT\TestAlgoritmoTT\obj\Debug\netcoreapp3.1\TestAlgoritmoTT.pdb
+C:\Users\jedua\Documents\ESCOM\TT\TestAlgoritmoTT\TestAlgoritmoTT\obj\Debug\netcoreapp3.1\TestAlgoritmoTT.genruntimeconfig.cache
